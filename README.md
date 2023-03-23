@@ -1,8 +1,7 @@
-# **Connect-Me** : scaffold_widget_ws_2_1
+# Connect-Me : # scaffold_widget_ws_2_1
 
-*Connect Me an application to contact me with my social platform and portfolio.*
+**Connect Me an application to contact me with my social platform and portfolio.**
 
-A new Flutter project.
 
 ## Getting Started
 
